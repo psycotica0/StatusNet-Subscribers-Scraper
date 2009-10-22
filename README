@@ -4,3 +4,5 @@ It is invoked like this: ./subs.sh identi.ca/bugabundo
 It then spits out the profile urls of all subscribers.
 
 It's very fragile and likely to break, but it works for now.
+
+It also requires my Scrape utility, which as of this writing can be found at http://github.com/psycotica0/Scrape
