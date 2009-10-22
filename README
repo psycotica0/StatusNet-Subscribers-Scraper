@@ -1,0 +1,6 @@
+This was written because identi.ca/bugabundo wanted all his subscribers and FOAF was broken.
+
+It is invoked like this: ./subs.sh identi.ca/bugabundo
+It then spits out the profile urls of all subscribers.
+
+It's very fragile and likely to break, but it works for now.
